@@ -26,7 +26,7 @@ Fue desarrollado para poner en práctica conceptos clave de programación como v
 
 ## 📸 Vista previa
 
-![Vista previa](challenge-amigo-secreto_esp-main/assets/amigo-secreto-preview.png)
+![Vista previa](assets/amigo-secreto-preview.png)
 
 ---
 
