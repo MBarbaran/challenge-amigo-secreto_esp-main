@@ -30,6 +30,12 @@ Fue desarrollado para poner en práctica conceptos clave de programación como v
 
 ---
 
+## 🔗 Acceso al proyecto
+
+👉 [Haz clic aquí para ver el proyecto en línea](https://mbarbaran.github.io/challenge-amigo-secreto_esp-main/)
+
+---
+
 **#OracleNextEducation** | **#helloONEG9**  
 [@Oracle](https://www.instagram.com/oraclelatinoamerica/#) | [@AluraLatam](https://www.instagram.com/aluralatam/).
 
